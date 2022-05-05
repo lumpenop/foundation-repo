@@ -1,4 +1,4 @@
-import styles from './Routes.module.scss'
+import styles from './Routes.module.scss';
 
 
 function App() {
@@ -6,7 +6,7 @@ function App() {
     <div className={styles.app}>
       <div>d</div>
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
