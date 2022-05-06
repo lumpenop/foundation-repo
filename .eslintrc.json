@@ -25,6 +25,7 @@
       "error",
       { "extensions": [".js", ".jsx"] }
     ],
+    "react/function-component-definition": ["warn", { "namedComponents": "arrow-function" }],
     "react/jsx-indent": "warn",
     "react/jsx-props-no-spreading": "off",
     "react/no-array-index-key": "warn",
